@@ -10,8 +10,8 @@
 		{
 			"category":"Contributed",
 			"name":"gen4-IoD 32T module",
-			"url":"https://github.com/jasiuserce/gen4-IoD_32T/raw/gh-pages/gen4_IoD.zip",
-			"help":{ "online":"https://github.com/jasiuserce/gen4-IoD_32T" },
+			"url":"https://github.com/jasiuserce/gen4-IoD_32T/raw/master/gen4_IoD.zip",
+			"help":{ "online":"https://raw.githubusercontent.com/jasiuserce/gen4-IoD_32T" },
 			"version":"1.0",
 			"architecture":"gen4_IoD",
 			"archiveFileName":"gen4_IoD.zip",
